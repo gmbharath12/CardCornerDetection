@@ -1,4 +1,4 @@
 CardCornerDetection
 ===================
 
-Helps to detect the corner of a card. 
+Helps to detect corners of a card. 
